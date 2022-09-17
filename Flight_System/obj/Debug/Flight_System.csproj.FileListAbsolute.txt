@@ -1,0 +1,11 @@
+C:\Users\saday\OneDrive\Masaüstü\C# A'dan Z'ye\Flight_System\Flight_System\bin\Debug\Flight_System.exe.config
+C:\Users\saday\OneDrive\Masaüstü\C# A'dan Z'ye\Flight_System\Flight_System\bin\Debug\Flight_System.exe
+C:\Users\saday\OneDrive\Masaüstü\C# A'dan Z'ye\Flight_System\Flight_System\bin\Debug\Flight_System.pdb
+C:\Users\saday\OneDrive\Masaüstü\C# A'dan Z'ye\Flight_System\Flight_System\obj\Debug\Flight_System.csproj.AssemblyReference.cache
+C:\Users\saday\OneDrive\Masaüstü\C# A'dan Z'ye\Flight_System\Flight_System\obj\Debug\Flight_System.csproj.SuggestedBindingRedirects.cache
+C:\Users\saday\OneDrive\Masaüstü\C# A'dan Z'ye\Flight_System\Flight_System\obj\Debug\Flight_System.Form1.resources
+C:\Users\saday\OneDrive\Masaüstü\C# A'dan Z'ye\Flight_System\Flight_System\obj\Debug\Flight_System.Properties.Resources.resources
+C:\Users\saday\OneDrive\Masaüstü\C# A'dan Z'ye\Flight_System\Flight_System\obj\Debug\Flight_System.csproj.GenerateResource.cache
+C:\Users\saday\OneDrive\Masaüstü\C# A'dan Z'ye\Flight_System\Flight_System\obj\Debug\Flight_System.csproj.CoreCompileInputs.cache
+C:\Users\saday\OneDrive\Masaüstü\C# A'dan Z'ye\Flight_System\Flight_System\obj\Debug\Flight_System.exe
+C:\Users\saday\OneDrive\Masaüstü\C# A'dan Z'ye\Flight_System\Flight_System\obj\Debug\Flight_System.pdb
